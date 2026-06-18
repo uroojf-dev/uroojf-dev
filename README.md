@@ -1,10 +1,10 @@
-# Hi there 👋 I am Urooj
+# Hi there I am Urooj Fatima
 
 Aspiring **Data Analyst / Business Systems Analyst** with an MS in Computer Science from Pace University (NYC) and a Mechanical Engineering background — I bring an analytical, problem-first mindset to data, requirements, and process work.
 
 ![Profile views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=blue)
 
-## 🔧 Technologies & Tools
+##  Technologies & Tools
 
 **Languages**
 
@@ -40,7 +40,7 @@ Aspiring **Data Analyst / Business Systems Analyst** with an MS in Computer Scie
 
 ---
 
-## 📊 Featured Projects
+##  Featured Projects
 
 ### 🔹 [Customer Churn Prediction](LINK-TO-REPO)
 End-to-end ML pipeline predicting customer churn for a subscription business — data cleaning, feature engineering, model comparison, and business-facing insights on retention drivers.
@@ -53,17 +53,17 @@ Classification model for early lung cancer risk detection using patient health d
 
 ---
 
-## 🎓 Background
+##  Background
 
-- 🎓 MS in Computer Science, Pace University, New York City
-- 🎓 BTech in Mechanical Engineering, IGDTUW, India
-- 📜 DataCamp Certified — Data Analyst with Python
-- 💼 Data & Software Engineering experience (full-stack + data analysis)
-- 📚 Coursework: Database Management Systems, AI, Python Programming, Capstone Project (Agile/Scrum, requirements engineering, JIRA, software testing)
+-  MS in Computer Science, Pace University, New York City
+-  BTech in Mechanical Engineering, IGDTUW, India
+-  DataCamp Certified — Data Analyst with Python
+-  Data & Software Engineering experience (full-stack + data analysis)
+-  Coursework: Database Management Systems, AI, Python Programming, Capstone Project (Agile/Scrum, requirements engineering, JIRA, software testing)
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uroojfatima1512/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uroozk2@gmail.com)
